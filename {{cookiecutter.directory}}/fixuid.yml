@@ -1,0 +1,6 @@
+user: postgres
+group: postgres
+paths:
+  - /
+  - /project
+  - /var/lib/postgresql/data
